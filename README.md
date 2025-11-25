@@ -1,4 +1,4 @@
-# Q: How do biological information and lifestyle choices impact a person's obesity level?
+# Q: How do biological factors and lifestyle behaviors influence an individual’s risk of obesity?
 
 ### Methodology: Classification Decision Tree with 4 levels: Insufficient Weight, Normal Weight, Overweight, Obese
 - cleaned and preprocessed the Obesity dataset
